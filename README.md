@@ -1,0 +1,4 @@
+
+## Run
+
+`go build && ./goplay`
